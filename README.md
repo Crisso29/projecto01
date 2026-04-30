@@ -1,7 +1,7 @@
 # 📚 Tutorial completo — Git & GitHub
 
-> **Para estudiantes y desarrolladores que quieren entrar al campo laboral.**  
-> Aprende desde cero: instalación, flujo básico, ramas, trabajo en equipo y más.
+> **HOLA, Soy Crisologo Aguilar soy de serie 400 o 7mo ciclo de mi carrera universitaria en Ingeniería de Sistemas.**
+>La verdad no sé cómo llegué a estudiar la carrera, pero ya vamos acabar y la verdad sí me gusta mucho el tema de desarrollo, redes y la ciberseguridad, por eso estamos ahí, aprendiendo ultimamente como loco y con más ganas. Sin mucho previo, les traigo un tutorial de uso de Git y Github de manera más clásica posible, agarren bien sus teclas y a poner en práctica:
 
 ---
 
@@ -614,23 +614,6 @@ code .                                       # Abrir carpeta actual en VSCode
 
 ---
 
-## 🎯 Cómo subir este archivo a tu repositorio
-
-```bash
-# 1. Asegúrate de estar en la carpeta de tu proyecto
-cd mi-proyecto
-
-# 2. Agrega el README al staging
-git add README.md
-
-# 3. Haz el commit
-git commit -m "agrego tutorial completo de Git y GitHub"
-
-# 4. Sube a GitHub
-git push origin main
-# o simplemente:
-git push
-```
 
 ---
 
