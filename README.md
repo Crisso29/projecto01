@@ -1,7 +1,7 @@
 # 📚 Lab01 — Git & GitHub
 
 > **HOLA, Soy Crisologo Aguilar de serie 400 o 7mo ciclo de mi carrera universitaria en Ingeniería de Sistemas.**
->La verdad no sé cómo llegué a estudiar la carrera, pero ya vamos acabar y la verdad sí me gusta mucho el tema de desarrollo, redes y la ciberseguridad, por eso estamos ahí, aprendiendo ultimamente como loco y con más ganas. Sin mucho previo, les traigo un tutorial de uso de Git y Github de manera más clásica posible, agarren bien sus teclas y a poner en práctica (ojo: Todos las pasos fueron verificados):
+>La verdad no sé cómo llegué a estudiar la carrera, pero ya vamos acabar y la verdad sí me gusta mucho el tema de desarrollo, redes y la ciberseguridad, por eso estamos ahí, aprendiendo ultimamente como loco y con más ganas. Sin mucho previo, les traigo un tutorial de uso de Git y Github de manera más clásica posible con el objetivo de crear un repositorio, cambiar de ramas, subir y bajar tus proyectos de gitHUb. Agarren bien sus teclas y a poner en práctica (ojo: Todos las pasos son verificados):
 
 ---
 
